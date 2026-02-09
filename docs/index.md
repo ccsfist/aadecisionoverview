@@ -10,7 +10,7 @@ thinking about if it is possible to use forecasts to make disaster preparedness 
 
 It is intended to introduce you to key concepts, terms, analysis, and trade-offs for Anticipatory Action projects.  
 
-Enter your email to proceed:
+Enter your email to proceed (or any nickname to keep your comments organized):
 
 <div id="slide-config" data-type="start" data-next="../disastermandate/"> </div>
 
