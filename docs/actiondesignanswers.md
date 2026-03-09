@@ -1,6 +1,6 @@
 # Action Design Answers
 
-There are no right answers to the questions from the previous forms, there are only challenging tradeoffs that must be made using math and the professional responsabilty and expertise of the action designers and the elected or appointed official who holds responsiblity for action.
+There are no right answers to the questions from most recent forms, there are only challenging tradeoffs that must be made using math and the professional responsabilty and expertise of the action designers and the elected or appointed official who holds responsiblity for action.
 
 # Forecast Trigger Design and Action Design MUST be done together!
 
