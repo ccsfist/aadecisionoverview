@@ -8,7 +8,7 @@ Now lets play two roles.
 
 1) The Actor = the disaster manager
 
-- The Actor is asked to do Rule 2, which is action 20% of the years.
+- The Actor is asked to do Rule 2, which is action 40% of the years.
 
 - The action costs **$1,000,000 per year activated**
 
