@@ -431,6 +431,8 @@ To illustrate some of the points we discussed:
 
 - Drag the "Frequency of trigger events" slider to different frequencies to see the software calculate the different action levels
 
+For a discussion of advanced topics for differences across decades, visit this form [Ten Year](https://ee.kobotoolbox.org/x/4hSL2CHJ)
+
 For more documentation on how this tool works, please see:
 
 French:  https://fist.iri.columbia.edu/publications/docs/WA_AA_General_Material_Update/
